@@ -1,3 +1,5 @@
+// take a string and print the sum of each character's numeric value.
+
 #include<stdio.h>
 #include<string.h>
 
